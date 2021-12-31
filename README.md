@@ -7,6 +7,6 @@
 - 💬 Ask me about Discord bot help and Swing Java framework
 - 📫 How to reach me: Discord: Wesley_#0145
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Yes, I starred all my own pinned repositorys. ;)
+- ⚡ Fun fact: Yes, I starred all my own pinned repositories. ;)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CSWesley&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
