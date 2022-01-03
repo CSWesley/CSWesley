@@ -7,6 +7,6 @@
 - 💬 Ask me about anything.
 - 📫 How to reach me: (Discord) Wesley_#0145 (email) booked1234512@gmail.com
 - 😄 Pronouns: He/him
-- ⚡ Fun fact: Yes, I starred all my own pinned repositories. ;)
+- ⚡ Fun fact: Yes, I starred all my own repositories. ;)
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=CSWesley&show_icons=true&hide_border=true&&count_private=true&include_all_commits=true" />
