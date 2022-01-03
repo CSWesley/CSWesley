@@ -1,11 +1,11 @@
 ### Hi there 👋
 
-- 🔭 I’m currently working on a Discord bot for my biology class: [TheBiologyBot](https://github.com/CSWesley/TheBiologyBot).
-- 🌱 I’m currently learning nothing currently maybe web dev...
+- 🔭 I’m currently working on a Discord bot for my biology class: [TheBiologyBot](https://github.com/CSWesley/TheBiologyBot) as well as stuff with an Arduino.
+- 🌱 I’m currently learning Arduino stuff.
 - 👯 I’m looking to collaborate on you tell me.
-- 🤔 I’m looking for help with what to do and what to learn I'm not completely sure what I'm interested in.
-- 💬 Ask me about Discord bot help and Swing Java framework
-- 📫 How to reach me: Discord: Wesley_#0145
+- 🤔 I’m looking for help with bread boards please send me anything you know.
+- 💬 Ask me about anything.
+- 📫 How to reach me: (Discord) Wesley_#0145 (email) booked1234512@gmail.com
 - 😄 Pronouns: He/him
 - ⚡ Fun fact: Yes, I starred all my own pinned repositories. ;)
 
