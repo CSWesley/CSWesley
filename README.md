@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 - 🔭 I’m currently working on a bunch of stuff.
-- 🌱 I’m currently learning Arduino and Firebase/Firestore.
+- 🌱 I’m currently learning a lot.
 - 👯 I’m looking to collaborate on you tell me.
 - 🤔 I’m looking for help with anything and everything.
 - 💬 Ask me about anything.
